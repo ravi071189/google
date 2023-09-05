@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74c9013f-d2ce-4a76-9dfb-a32355429ae3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/google.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/DeleteAndEarn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/MinCostClimbingStair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/Tribonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/MaximalSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/MaximumScoreFromPerformingMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/MinimumDifficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/WordBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +45,26 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamic_programming.LongestIncreasingSubsequence" />
+      <module name="google" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamic_programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LongestIncreasingSubsequence" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,6 +83,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dynamic_programming/LongestIncreasingSubsequence.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
