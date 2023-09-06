@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74c9013f-d2ce-4a76-9dfb-a32355429ae3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/LongestCommonSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/LongestIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/MaximalSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/MaximumScoreFromPerformingMultiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/MinimumDifficulty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/WordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/BuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/BuyAndSellStockFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/BuyAndSellStockWithCooldown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/CoinChangeTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/DecodeWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/MaximumSumCircularSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/MinimumFallingPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/MinimumPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/PaintFence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/UniquePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/UniquePathsTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
